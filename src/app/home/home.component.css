@@ -1,0 +1,49 @@
+.BH{margin-left: 25%;}
+
+#H0{margin-left: 15%;}
+
+.BH h1{margin-left: 20%;}
+
+.BH p {width: 55%;}
+
+.BH button{margin-left: 18%;}
+
+.BH a {text-decoration: none;}
+
+#N1 {
+    background: url("./img/HD-wallpaper-dassault-mirage-2000.webp") no-repeat;
+    background-size: 750px;
+    padding-bottom: 30%;    
+}
+#N2{
+    background: url("./img/5\ Dassault_0.webp") no-repeat;
+    background-size: 750px;
+    padding-bottom: 30%;    
+}
+
+#N3A{margin-left: 16%;}
+
+#N3{
+    background: url("./img/mirage_iii_ez_831_01fpjvq.webp") no-repeat;
+    background-size: 750px;
+    padding-bottom: 30%; 
+}
+#N4{
+    background: url("./img/web.webp") no-repeat;
+    background-size: 750px;
+    padding-bottom: 30%; 
+}
+#N5{
+    background: url("./img/Dassault_Mirage_III.webp") no-repeat;
+    background-size: 750px;
+    padding-bottom: 30%; 
+}
+
+#angular{
+    background: url("./img/angular.webp") no-repeat;
+    background-size: 250px;
+    padding-bottom: 15%;
+    margin-top: 3%;
+    margin-left: 16%;
+}
+#AB{margin-left: 17%;}

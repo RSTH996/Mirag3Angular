@@ -1,0 +1,57 @@
+body{
+    width: 90%;
+    margin-left: 10%;
+}
+p{ width: 80%;}
+li{list-style: none;}
+#LI1{display: inline-flex;}
+a{text-decoration: none;}
+
+#subsonico{    
+    background: url("../img/Curiosidades/1Subsonico_1.webp") no-repeat;
+    background-size: 600px;
+    padding-bottom: 35%;
+}
+
+#subsonicoF{
+    display: flex;
+    margin-top: -5%;
+}
+
+#supersonico{    
+    background: url("../img/Curiosidades/2Supesonico.webp") no-repeat;
+    background-size: 600px;
+    padding-bottom: 40%;    
+    margin-left: 43%;
+    margin-top: -35%;
+}
+
+#supersonicoF{
+    display: flex;
+    margin-left: 45%;
+}
+
+#schieren{      
+    size: 600px;
+    margin-left: 25%;
+}
+
+#schierenF{display: flex;}
+
+#difusor{   
+    background: url("../img/Curiosidades/4difusorMarcado.webp") no-repeat;
+    background-size: 600px;
+    padding-bottom: 30%;
+    margin-left: 40%;
+    margin-top: -35%;
+}
+
+#difusorF{
+    display: flex;
+    margin-left: 40%;   
+    padding-bottom: 2%; 
+}
+
+figure{width: 35%;}
+
+#BT{margin-left: 36%;}

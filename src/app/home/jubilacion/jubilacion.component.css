@@ -1,0 +1,145 @@
+li{list-style: none;}
+
+#LI1{display: inline-flex;}
+
+a{text-decoration: none;}
+
+#b1{
+    width: 80%;
+    margin-left: 10%;
+}
+p{width: 90%;}
+
+#AR1{
+    background: url("../img/Jubilacion/1\ mirage17.webp") no-repeat;
+    background-size: 600px;
+    padding-bottom: 27%; 
+}
+#AR3{
+    background: url("../img/Jubilacion/0e1ffa5d-cbde-45b8-b983-0ff11c46c942.webp") no-repeat;
+    background-size: 600px;
+    padding-bottom: 30%; 
+    margin-left: 43%;
+    margin-top: -27%;
+}
+
+#IS1{
+    background: url("../img/Jubilacion/3-1152145-large.webp") no-repeat;
+    background-size: 600px;
+    padding-bottom: 30%; 
+}
+
+#IS2{
+    background: url("../img/Jubilacion/4-mirage3.webp") no-repeat;
+    background-size: 600px;
+    padding-bottom: 30%; 
+    margin-left: 43%;
+    margin-top: -30%;
+}
+
+#AU1{
+    background: url("../img/Jubilacion/5-mirage-collection-02.webp") no-repeat;
+    background-size: 600px;
+    padding-bottom: 30%; 
+}
+
+#AU2{
+    background: url("../img/Jubilacion/6\ IMG_0750.webp") no-repeat;
+    background-size: 600px; 
+    padding-bottom: 30%; 
+    margin-left: 43%;
+    margin-top: -30%;
+}
+
+#AU3{
+    background: url("../img/Jubilacion/7\ img_0380.webp") no-repeat;
+    background-size: 600px;
+    padding-bottom: 30%; 
+}
+
+#AU4{
+    background: url("../img/Jubilacion/iii-gate-guardian-at-raaf-base-wagga.webp") no-repeat;
+    background-size: 600px;
+    padding-bottom: 27%; 
+    margin-left: 43%;
+    margin-top: -30%;
+}
+
+#AF1{
+    background: url("../img/Jubilacion/10\ ZAF\ WenR-17.webp") no-repeat;
+    background-size: 600px;
+    padding-bottom: 30%; 
+}
+
+#AF2{
+    background: url("../img/Jubilacion/11\ Dassault-Mirage-III-CZ-805-South-African-Air-Force-South-African-Air-Force-Museum-Swartkop.webp") no-repeat;
+    background-size: 600px;
+    padding-bottom: 30%; 
+    margin-left: 43%;
+    margin-top: -30%;
+}
+
+#BR1{background: url("../img/Jubilacion/mirage-iii-museu-asas-de-um-sonho.webp") no-repeat;
+    background-size: 600px;
+    padding-bottom: 30%; 
+}
+
+#FR1{
+    background: url("../img/Jubilacion/12\ 82656_1616093381.webp") no-repeat;
+    background-size: 600px;
+    padding-bottom: 30%; 
+}
+#FR2{
+    background: url("../img/Jubilacion/13\ image.webp") no-repeat;
+    background-size: 600px;
+    padding-bottom: 24%; 
+    margin-left: 43%;
+    margin-top: -30%;
+}
+#FR3{
+    background: url("../img/Jubilacion/14\ Dassault-Mirage-IIIE-538-3-QH-French-Air-Force.webp") no-repeat;
+    background-size: 600px;
+    padding-bottom: 30%; 
+    margin-left: 20%;
+}
+
+#SU1{
+    background: url("../img/Jubilacion/15\ 24730222633_bb17aae046_b.webp") no-repeat;
+    background-size: 600px;
+    padding-bottom: 27%; 
+}
+#SU2{
+    background: url("../img/Jubilacion/16\ 47070825-orig.webp") no-repeat;
+    background-size: 600px;
+    padding-bottom: 30%; 
+    margin-left: 43%;
+    margin-top: -27%;
+}
+
+#PK1{
+    background: url("../img/Jubilacion/17\ Mirage-rose-paf-gdi.webp") no-repeat;
+    background-size: 600px;
+    padding-bottom: 26%; 
+}
+#PK2{
+    background: url("../img/Jubilacion/18-b10-3d2.webp") no-repeat;
+    background-size: 600px;
+    padding-bottom: 29%; 
+    margin-left: 43%;
+    margin-top: -26%;
+}
+#PK3{
+    background: url("../img/Jubilacion/19\ bd266470-4b62-11e8-85b3-af25d27017e0_1280x720_151141.webp") no-repeat;
+    background-size: 600px;
+    padding-bottom: 27%;
+    margin-top: -5%; 
+}
+#PK4{
+    background: url("../img/Jubilacion/20-817448-pakistan-miragev.webp") no-repeat;
+    background-size: 600px;
+    padding-bottom: 25%; 
+    margin-left: 43%;
+    margin-top: -27%;
+}
+
+#boton{margin-left: 40%;}

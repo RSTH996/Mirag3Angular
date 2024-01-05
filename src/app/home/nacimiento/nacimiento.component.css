@@ -1,0 +1,49 @@
+/*general*/
+li{
+    list-style: none;
+    display: flex;
+}
+#NB{
+    width: 85%;
+    margin-left: 5%;
+}
+/*Específico*/
+#NUL{display: inline-flex;}
+
+a {text-decoration: none;}
+
+#MD1{
+    background: url("../img/Mystère.webp") no-repeat;
+    background-size: 500px; 
+    margin-top: 3%;    
+    padding-bottom: 3%;   
+}
+
+#MDF{margin-top: 13%;}
+
+#SE1{
+    background: url("../img/SNCASE.webp") no-repeat;
+    background-size: 500px;
+    margin-left: 33%;
+    margin-top: -19%;  
+}
+#SE1 figure{margin-top: 27%;}
+
+#SO1{
+    background: url("../img/SNCASO.webp") no-repeat;
+    background-size: 500px;  
+    padding-bottom: 3%;     
+    margin-left: 67%;
+    margin-top: -18%; 
+}
+#SO1 figure{margin-top: 40%;}
+
+#LU{
+    background: url("../img/Mirage1.webp") no-repeat;
+    background-size: 500px;
+    padding-bottom: 0%;    
+    margin-left: 35%;
+}
+#LU figure{margin-top: 37%;}
+
+#BN{margin-left: 45%;}
