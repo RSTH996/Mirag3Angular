@@ -12,12 +12,12 @@
 
 #N1 {
     background: url("./img/HD-wallpaper-dassault-mirage-2000.webp") no-repeat;
-    background-size: 750px;
+    background-size: 53%;
     padding-bottom: 30%;    
 }
 #N2{
     background: url("./img/5\ Dassault_0.webp") no-repeat;
-    background-size: 750px;
+    background-size: 53%;
     padding-bottom: 30%;    
 }
 
@@ -25,25 +25,25 @@
 
 #N3{
     background: url("./img/mirage_iii_ez_831_01fpjvq.webp") no-repeat;
-    background-size: 750px;
+    background-size: 53%;
     padding-bottom: 30%; 
 }
 #N4{
     background: url("./img/web.webp") no-repeat;
-    background-size: 750px;
+    background-size: 53%;
     padding-bottom: 30%; 
 }
 #N5{
     background: url("./img/Dassault_Mirage_III.webp") no-repeat;
-    background-size: 750px;
+    background-size: 53%;
     padding-bottom: 30%; 
 }
 
 #angular{
     background: url("./img/angular.webp") no-repeat;
-    background-size: 250px;
-    padding-bottom: 15%;
+    background-size: 25%;
+    padding-bottom: 19%;
     margin-top: 3%;
-    margin-left: 16%;
+    margin-left: 12%;
 }
-#AB{margin-left: 17%;}
+#AB{margin-left: 16%;}

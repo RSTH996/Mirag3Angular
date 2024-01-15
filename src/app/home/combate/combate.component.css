@@ -14,43 +14,44 @@ li{list-style: none;}
 .lista {display: block;}
 #M1{
     background: url("../img/Combate/1-MiG-21-Gun-Camera_1.webp") no-repeat;
-    background-size: 600px ;
-    padding-bottom: 20%;
+    background-size: 45% ;
+    padding-bottom: 25%;
 }
 #M2{
     background: url("../img/Combate/2-220px-MirageIIIShotDownByMiG-21_2.webp") no-repeat;
-    background-size: 300px, 600px;
-    padding-bottom: 30%;
+    background-size: 40%, 80%;
+    padding-bottom: 50%;
     margin-left: 50%;
-    margin-top: -23%;
+    margin-top: -25%;
 }
 #M2F{margin-left: 50%;}
 #M3{
     background: url("../img/Combate/3\ AUT-AMOS-DOR_edited.webp") no-repeat;
-    background-size: 600px;
-    padding-bottom: 20%;
-    margin-top: -10%;
+    background-size: 40%;
+    padding-bottom: 23%;
+    margin-top: -25%;
 }
+
 #M4{
     background: url("../img/Combate/4\ 6DW_edited.webp") no-repeat;
-    background-size: 600px;
-    padding-bottom: 20%;    
-    margin-left: 40%;
-    margin-top: -13%;
+    background-size: 60%;
+    padding-bottom: 28%;    
+    margin-left: 0%;
+    margin-top: 0%;
 }
-#M4F{margin-left: 40%;}
+#M4F{margin-left: 10%;}
 
 #M5{
     background: url("../img/Combate/5-45af65b2b57ad_large_1.webp") no-repeat;
-    background-size: 600px;
-    padding-bottom: 23%;
+    background-size: 60%;
+    padding-bottom: 25%;
     margin-left: 30%;
 }
 #M5F{margin-left: 30%;}
 #M6{
     background: url("../img/Combate/6-ddfpwru-291bf09e-0040-45c2-bf3d-b6b60656a80c_1.webp") no-repeat;
-    background-size: 600px;
-    padding-bottom: 20%;    
+    background-size: 60%;
+    padding-bottom: 23%;    
     margin-left: 30%;
 }
 #M6F{margin-left: 30%;}
@@ -58,18 +59,18 @@ li{list-style: none;}
 #MA{margin-left: 13%;}
 #M7{
     background: url("../img/Combate/7-E1HsawWXMAEK03U_1.webp") no-repeat;
-    background-size: 600px;
+    background-size: 40%;
     padding-bottom: 25%;
 }
-#M7F{margin-top: -2%;}
+#M7F{margin-top: -3%;}
 
 #M8{
     background: url("../img/Combate/8-01_584_.webp") no-repeat;
-    background-size: 600px;
-    padding-bottom: 23%;    
+    background-size: 70%;
+    padding-bottom: 25%;    
     margin-left: 42%;
     margin-top: -27%;
 }
-#M8F{margin-left: 42%;}
+#M8F{margin-left: 50%;}
 
 #boton{margin-left: 48%;}

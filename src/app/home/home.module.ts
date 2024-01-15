@@ -6,8 +6,7 @@ import { CombateComponent } from './combate/combate.component';
 
 
 @NgModule({
-  declarations: [
-  
+  declarations: [  
     CombateComponent
   ],
   imports: [

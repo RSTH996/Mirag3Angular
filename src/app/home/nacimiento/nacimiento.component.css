@@ -14,36 +14,45 @@ a {text-decoration: none;}
 
 #MD1{
     background: url("../img/Mystère.webp") no-repeat;
-    background-size: 500px; 
+    background-size: 32%; 
     margin-top: 3%;    
     padding-bottom: 3%;   
 }
 
-#MDF{margin-top: 13%;}
+#MDF{
+    margin-top: 13%;
+    margin-left: 5%;}
 
 #SE1{
     background: url("../img/SNCASE.webp") no-repeat;
-    background-size: 500px;
+    background-size: 45%;
     margin-left: 33%;
     margin-top: -19%;  
 }
-#SE1 figure{margin-top: 27%;}
+#SE1 figure{
+    margin-top: 25%;
+    margin-left: 10%;
+}
 
 #SO1{
     background: url("../img/SNCASO.webp") no-repeat;
-    background-size: 500px;  
+    background-size: 100%;  
     padding-bottom: 3%;     
-    margin-left: 67%;
+    margin-left: 64%;
     margin-top: -18%; 
 }
-#SO1 figure{margin-top: 40%;}
+#SO1 figure{
+    margin-top: 43%;
+    margin-left: 25%;}
 
 #LU{
     background: url("../img/Mirage1.webp") no-repeat;
-    background-size: 500px;
+    background-size: 52%;
     padding-bottom: 0%;    
     margin-left: 35%;
 }
-#LU figure{margin-top: 37%;}
+#LU figure{
+    margin-top: 39%;
+    margin-left: 10%;}
 
 #BN{margin-left: 45%;}

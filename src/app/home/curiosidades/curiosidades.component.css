@@ -9,7 +9,7 @@ a{text-decoration: none;}
 
 #subsonico{    
     background: url("../img/Curiosidades/1Subsonico_1.webp") no-repeat;
-    background-size: 600px;
+    background-size: 40%;
     padding-bottom: 35%;
 }
 
@@ -20,7 +20,7 @@ a{text-decoration: none;}
 
 #supersonico{    
     background: url("../img/Curiosidades/2Supesonico.webp") no-repeat;
-    background-size: 600px;
+    background-size: 60%;
     padding-bottom: 40%;    
     margin-left: 43%;
     margin-top: -35%;
@@ -32,7 +32,7 @@ a{text-decoration: none;}
 }
 
 #schieren{      
-    size: 600px;
+    size: 60%;
     margin-left: 25%;
 }
 
@@ -40,7 +40,7 @@ a{text-decoration: none;}
 
 #difusor{   
     background: url("../img/Curiosidades/4difusorMarcado.webp") no-repeat;
-    background-size: 600px;
+    background-size: 60%;
     padding-bottom: 30%;
     margin-left: 40%;
     margin-top: -35%;

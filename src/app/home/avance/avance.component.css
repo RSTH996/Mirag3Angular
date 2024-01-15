@@ -11,14 +11,14 @@ a{text-decoration: none;}
 /*inicio*/
 #AIM{
     background: url("../img/avance/AIM-9B_Sidewinder_missiles_on_the_flight_deck_of_USS_America__CVA-66___8_June_1967.webp") no-repeat;
-    background-size: 500px;
+    background-size: 30%;
     padding-bottom: 1%; 
     margin-top: 5%;
 }
 #AIM figure{margin-top: 21%;}
 
 #R5{background: url("../img/avance/300px-Matra_R550_Loaded_on_Pylon_of_Mirage_2000-5EI_2046_20120811.webp") no-repeat;
-    background-size: 500px;
+    background-size: 40%;
     padding-bottom: 3%; 
     margin-left: 30%;
     margin-top: -26%;
@@ -27,7 +27,7 @@ a{text-decoration: none;}
 
 #RD{
     background: url("../img/avance/misiles2.webp") no-repeat;
-    background-size: 500px;
+    background-size: 70%;
     padding-bottom: 0%; 
     margin-left: 60%;
     margin-top: -28%;
@@ -36,15 +36,15 @@ a{text-decoration: none;}
 
 #M3C{
     background: url("../img/avance/tm94rz79m3oy.webp") no-repeat;
-    background-size: 500px;
+    background-size: 30%;
     padding-bottom: 20%; 
     margin-left: 13%;
 }
-#M3C figure{margin-top: 27%;}
+#M3C figure{margin-top: 25%;}
 
 #M3B{
     background: url("../img/avance/1829215.webp") no-repeat;
-    background-size: 500px;
+    background-size: 50%;
     padding-bottom: 3%;  
     margin-left: 43%;
     margin-top: -44%;
@@ -56,14 +56,14 @@ a{text-decoration: none;}
 
 #M3R{
     background: url("../img/avance/Mirage_III-R_MG_1468.webp") no-repeat;
-    background-size: 500px;
+    background-size: 30%;
     padding-bottom: 0%; 
 }
 #M3R figure{margin-top: 21%;}
 
 #M3D{
     background: url("../img/avance/000-134-142_0001.webp") no-repeat;
-    background-size: 500px;
+    background-size: 43%;
     padding-bottom: 0%; 
     margin-left: 32%;
     margin-top: -23%;
@@ -73,7 +73,7 @@ a{text-decoration: none;}
 
 #M3E{    
     background: url("../img/avance/Mirage-5PA3.webp") no-repeat;
-    background-size: 500px;
+    background-size: 80%;
     padding-bottom: 0%; 
     margin-left: 63%;
     margin-top: -24%;
@@ -87,19 +87,19 @@ a{text-decoration: none;}
 }
 #MB1{
     background: url("../img/avance/1613652681_dassault-2.webp") no-repeat;
-    background-size: 500px;
+    background-size: 35%;
     padding-bottom: 0%;     
 }
-#MB1 figure{margin-top: 28%;}
+#MB1 figure{margin-top: 27%;}
 
 #MB2{
     background: url("../img/avance/mir3v_02_1_.webp") no-repeat;
-    background-size: 500px;
+    background-size: 60%;
     padding-bottom: 0%;     
-    margin-left: 35%;
+    margin-left: 36%;
     margin-top: -25%;
 }
-#MB2 figure{margin-top: 30%;}
+#MB2 figure{margin-top: 32%;}
 
 /*Mirage IV*/
 
@@ -111,7 +111,7 @@ a{text-decoration: none;}
 
 #M4a{
     background: url("../img/avance/gagmnuphwfy51.webp") no-repeat;
-    background-size: 500px;
+    background-size: 30%;
     padding-bottom: 0%; 
     margin-top: 0%;
 }
@@ -119,7 +119,7 @@ a{text-decoration: none;}
 
 #M4b{
     background: url("../img/avance/u1t1nm4k5ac81.webp") no-repeat;
-    background-size: 500px;
+    background-size: 45%;
     padding-bottom: 0%;     
     margin-left: 32%;
     margin-top: 0%;
@@ -128,7 +128,7 @@ a{text-decoration: none;}
 
 #M4c{
     background: url("../img/avance/sge7yy86pc961.webp") no-repeat;
-    background-size: 500px;
+    background-size: 80%;
     padding-bottom: 0%;     
     margin-left: 65%;
     margin-top: -20%;
@@ -137,7 +137,7 @@ a{text-decoration: none;}
 
 #M4d{
     background: url("../img/avance/intro-1679085537.webp") no-repeat;
-    background-size: 500px;
+    background-size: 30%;
     padding-bottom: 0%; 
     margin-top: -10%;
 }
@@ -151,33 +151,33 @@ a{text-decoration: none;}
 }
 #M5a{
     background: url("../img/avance/11002.webp") no-repeat;
-    background-size: 500px;
-    padding-bottom: 0%; 
+    background-size: 27%;
+    padding-bottom: 2%; 
 }
-#M5a figure{margin-top: 22%;}
+#M5a figure{margin-top: 20%;}
 
 #M5b{
     background: url("../img/avance/640px-Chile_Air_Force_Dassault__SABCA__Mirage_5MA_Elkan_Lofting-2.webp") no-repeat;
-    background-size: 500px;
+    background-size: 45%;
     padding-bottom: 0%; 
-    margin-left: 30%;
-    margin-top: -23%;    
+    margin-left: 32%;
+    margin-top: -24%;    
 }
 #M5b figure{margin-top: 28%;}
 
 #M50{
     background: url("../img/avance/Pantera4.webp") no-repeat;
-    background-size: 500px;
+    background-size: 75%;
     padding-bottom: 0%;
-    margin-left: 60%;
-    margin-top: -22%;
+    margin-left: 65%;
+    margin-top: -21%;
 }
 #M50 figure{margin-top: 53%;}
 
 /*Mirage 2000*/
 #M20{
     background: url("../img/avance/1200px-French_Mirage_2000_finishes_refueling_from_KC-10A_2009-12-06_mod1.webp") no-repeat;
-    background-size: 500px;
+    background-size: 30%;
     padding-bottom: 0%; 
     margin-top: 1%;
 }
@@ -185,20 +185,20 @@ a{text-decoration: none;}
 
 #M205{
     background: url("../img/avance/mirage2000_1.webp") no-repeat;
-    background-size: 500px;
+    background-size: 40%;
     padding-bottom: 0%; 
-    margin-left: 30%;
+    margin-left: 33%;
     margin-top: -22%;
 }
-#M205 figure{margin-top: 32%;}
+#M205 figure{margin-top: 30%;}
 
 #M20N{
     background: url("../img/avance/a4800f9568ac909d221d4e86b6d8c934.webp") no-repeat;
-    background-size: 500px;
+    background-size:75%;
     padding-bottom: 3%; 
-    margin-left: 60%;
-    margin-top: -23%;
+    margin-left: 63%;
+    margin-top: -21%;
 }
-#M20N figure{margin-top: 47%;}
+#M20N figure{margin-top: 48%;}
 
 #botona{margin-left: 40%;}
